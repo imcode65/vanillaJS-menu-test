@@ -1,0 +1,11 @@
+.main-menu {
+
+}
+
+.sub-menu {
+    opacity: 0;
+}
+
+.main-menu:hover .sub-menu {
+    opacity: 100;
+}
